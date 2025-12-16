@@ -34,6 +34,20 @@ Organizations often face high candidate drop-offs and low hiring conversion rate
 - Aptitude Score Distribution
 - Offer Acceptance vs Rejection
 
+## 📈 Dashboard Highlights
+
+### 1️⃣ Hiring Funnel
+![Hiring Funnel](dashboards/hiring_funnel.png)
+
+### 2️⃣ Candidate Drop-Off Analysis
+![Drop-Off Table](dashboards/dropoff_table.png)
+
+### 3️⃣ Aptitude Score Distribution
+![Aptitude Distribution](dashboards/aptitude_distribution.png)
+
+### 4️⃣ Offer Acceptance vs Rejection
+![Offer Acceptance](dashboards/offer_acceptance.png)
+
 ---
 
 ## 🔍 Key Insights
@@ -52,3 +66,24 @@ Organizations often face high candidate drop-offs and low hiring conversion rate
 - Increase offer releases due to high acceptance rates.
 
 ---
+
+
+📌 How to View / Use
+1. Open the Jupyter Notebook to inspect data cleaning & analysis.
+2. See the Power BI file or screenshots for dashboard visuals.
+3. Read the PDF report for full explanation and insights.
+
+---
+
+📌 Key Results
+- Highest drop-off at Aptitude Test
+- Overall conversion rate ~11%
+- Strong offer acceptance
+- Actionable hiring recommendations
+
+---
+
+📌 Technologies & Tools
+- Python (Pandas)
+- Excel
+- Power BI
