@@ -37,16 +37,16 @@ Organizations often face high candidate drop-offs and low hiring conversion rate
 ## 📈 Dashboard Highlights
 
 ### 1️⃣ Hiring Funnel
-![Hiring Funnel](dashboards/hiring_funnel.png)
+![Hiring Funnel](Dashboards/hiring_funnel.png)
 
 ### 2️⃣ Candidate Drop-Off Analysis
-![Drop-Off Table](dashboards/dropoff_table.png)
+![Drop-Off Table](Dashboards/dropoff_table.png)
 
 ### 3️⃣ Aptitude Score Distribution
-![Aptitude Distribution](dashboards/aptitude_distribution.png)
+![Aptitude Distribution](Dashboards/aptitude_distribution.png)
 
 ### 4️⃣ Offer Acceptance vs Rejection
-![Offer Acceptance](dashboards/offer_acceptance.png)
+![Offer Acceptance](Dashboards/offer_acceptance.png)
 
 ---
 
